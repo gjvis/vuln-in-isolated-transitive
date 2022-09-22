@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "redis-rack-cache", "1.1"
-gem "rack", "~> 1.6.2"
+gem "redis-rack-cache", "2.0.2"
+gem "rack", "~> 2.1.4"
